@@ -1,1 +1,1 @@
-# tech-project
+# Tech-Project
